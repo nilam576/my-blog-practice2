@@ -1,2 +1,2 @@
 pytest
-pillow==10.3.0  # still vulnerable but has wheels that install cleanly
+pillow==11.3.0  # still vulnerable but has wheels that install cleanly
